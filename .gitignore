@@ -1,0 +1,5 @@
+/vendor
+/.idea
+google-app-credentials.json
+.phpunit.result.cache
+.php_cs.cache
